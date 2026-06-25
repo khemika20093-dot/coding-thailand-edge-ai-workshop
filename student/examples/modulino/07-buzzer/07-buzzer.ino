@@ -17,3 +17,4 @@ void loop() {
   buzzer.tone(880, 250);   // เสียงสูงขึ้น
   delay(500);
 }
+https://drive.google.com/file/d/15llHijnfbkqyXR6B93NKyUw-nsjwwDEG/view?usp=drive_link
